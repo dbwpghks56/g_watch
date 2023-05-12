@@ -1,4 +1,4 @@
-<manifest package="com.example.standalone"
+<manifest package="com.g_watch.g_watch"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-feature
         android:name="android.hardware.type.watch"/>
