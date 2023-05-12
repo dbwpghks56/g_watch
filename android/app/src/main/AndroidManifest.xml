@@ -4,7 +4,7 @@
     <application
         android:label="은하계 워치"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/g_watch_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
