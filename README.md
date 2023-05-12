@@ -19,10 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 
 워치OS인 wearOS에서 실행되는 직관적인 타이머앱(얼렁뚱땅 우당탕탕) 
 
-Shared_preferences
-Wear
-Get
-sprintf
+Shared_preferences </br>
+Wear</br>
+Get</br>
+sprintf</br>
 
 ## Getting Started
 
